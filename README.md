@@ -35,14 +35,14 @@ To build a machine learning model that can accurately predict whether a tumor is
 
 ## 🔍 Project Workflow
 
-* 1. Data Loading
-* 2. Data Cleaning
-* 3. Missing Value Handling
-* 4. Data Visualization
-* 5. Data Preprocessing
-* 6. Model Building (ANN)
-* 7. Model Training
-* 8. Model Evaluation
+* Data Loading
+* Data Cleaning
+* Missing Value Handling
+* Data Visualization
+* Data Preprocessing
+* Model Building (ANN)
+* Model Training
+* Model Evaluation
 
 ---
 
